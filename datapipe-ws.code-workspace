@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "datapipe-ws",
+			"path": "."
+		},
+		{
+			"name": "datapipe",
+			"path": "../datapipe"
+		},
+		{
+			"name": "datapipe-app",
+			"path": "../datapipe-app"
+		}
+	],
+	"settings": {}
+}
