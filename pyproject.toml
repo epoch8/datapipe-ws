@@ -2,11 +2,11 @@
 name = "datapipe-ws"
 version = "0.1.0"
 description = ""
-authors = ["Andrey Tatarinov <a@tatarinov.co>"]
-readme = "README.md"
+authors = []
+package-mode = false
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
+python = ">=3.9,<3.12"
 
 datapipe-core = { path = "../datapipe", extras=["sqlite", "ray"], develop = true }
 datapipe-app = { path = "../datapipe-app", develop = true }
