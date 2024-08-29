@@ -11,6 +11,12 @@
 		{
 			"name": "datapipe-app",
 			"path": "../datapipe-app"
+		},
+		{
+			"path": "../datapipe-label-studio-lite"
+		},
+		{
+			"path": "../datapipe-ml"
 		}
 	],
 	"settings": {}

@@ -10,6 +10,8 @@ python = ">=3.9,<3.12"
 
 datapipe-core = { path = "../datapipe", extras=["sqlite", "ray"], develop = true }
 datapipe-app = { path = "../datapipe-app", develop = true }
+datapipe-label-studio-lite = { path = "../datapipe-label-studio-lite", develop = true }
+# datapipe-ml = { path = "../datapipe-ml", develop = true }
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.11.1"
