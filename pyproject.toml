@@ -20,6 +20,6 @@ dev-dependencies = [
 ]
 
 [tool.uv.sources]
-datapipe-core = { path = "../datapipe" }
-datapipe-app = { path = "../datapipe-app" }
-datapipe-label-studio-lite = { path = "../datapipe-label-studio-lite" }
+datapipe-core = { path = "../datapipe", editable = true }
+datapipe-app = { path = "../datapipe-app", editable = true }
+datapipe-label-studio-lite = { path = "../datapipe-label-studio-lite", editable = true }
