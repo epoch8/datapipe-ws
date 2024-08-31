@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 requires-python = ">=3.10"
 dependencies = [
-    "datapipe-core[sqlite,ray,redis,milvus]",
+    "datapipe-core[sqlite,ray,redis,milvus,qdrant,gcsfs,excel]",
     "datapipe-app",
     "datapipe-label-studio-lite",
 ]
