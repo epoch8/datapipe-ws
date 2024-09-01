@@ -16,10 +16,10 @@
 			"name": "datapipe-label-studio-lite",
 			"path": "../datapipe-label-studio-lite"
 		},
-		{
-			"name": "datapipe-ml",
-			"path": "../datapipe-ml"
-		}
+		// {
+		// 	"name": "datapipe-ml",
+		// 	"path": "../datapipe-ml"
+		// }
 	],
 	"settings": {
 		"[python]": {
