@@ -2,7 +2,7 @@
 name = "datapipe-ws"
 version = "0.1.0"
 description = ""
-requires-python = ">=3.10"
+requires-python = ">=3.12,<3.13"
 dependencies = [
     "datapipe-core[sqlite,ray,redis,milvus,qdrant,gcsfs,excel]",
     "datapipe-app",
